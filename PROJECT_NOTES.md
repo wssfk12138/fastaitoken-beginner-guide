@@ -3,7 +3,7 @@
 ## 最近状态摘要
 
 - 2026-08-18：建立纯 Markdown 中文新手指南，覆盖中转站、倍率、计费、快速开始、Codex、通用客户端、排错、安全和 FAQ。
-- 仓库计划公开发布到 `wssfk12138/fastaitoken-beginner-guide`。
+- 仓库已公开发布到 `wssfk12138/fastaitoken-beginner-guide`。
 
 ## 项目定位
 
@@ -29,7 +29,8 @@ git commit -m "docs: publish FastAiToken beginner guide"
 ## 当前开发状态
 
 - 文档结构已建立。
-- 待完成 Markdown 链接、代码围栏、UTF-8、隐私扫描和远端可见性校验。
+- Markdown 链接、代码围栏、UTF-8、隐私扫描和远端可见性校验已通过。
+- 2026-08-18：公开仓库已创建并发布，Git 推送因网络重置失败，改用 GitHub Contents API 完成上传；远端默认分支为 `main`。
 
 ## 已知问题与解决方案
 
