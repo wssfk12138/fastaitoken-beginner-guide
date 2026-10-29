@@ -56,6 +56,6 @@ Codex 能读取、修改文件并运行命令，取决于你的授权和任务�
 
 ## 从哪里注册？
 
-[点击注册 FastAiToken](https://www.fastaitoken.com/register?aff=BF9KNKFHX725)。该链接含推广参数 `aff=BF9KNKFHX725`，通过它注册可能给本项目作者带来推广收益。
+[点击注册 FastAiToken](https://www.fastaitoken.com/register?aff=BF9KNKFHX725&utm=fastaitoken-beginner-guide)。该链接含推广参数 `aff=BF9KNKFHX725`，通过它注册可能给本项目作者带来推广收益。
 
 仍未解决时，先阅读[常见报错排查](07-troubleshooting.md)，并用脱敏信息向平台或客户端支持求助。

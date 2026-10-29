@@ -1,7 +1,7 @@
 # FastAiToken 小白入门指南
 
 > [!TIP]
-> **想直接开始？** [点击注册 FastAiToken](https://www.fastaitoken.com/register?aff=BF9KNKFHX725)
+> **想直接开始？** [点击注册 FastAiToken](https://www.fastaitoken.com/register?aff=BF9KNKFHX725&utm=fastaitoken-beginner-guide)
 >
 > 目前平台提供 **0.06 倍率 ChatGPT 分组**，可按平台当前规则使用 GPT-5.6 Sol、GPT-5.6 Terra 等模型，也可使用 Claude Fable 5。简单理解：如果某次调用的基准费用是 1 元，0.06 倍率下约扣 0.06 元。具体可用模型、分组、倍率和价格会调整，请以登录后的控制台为准。
 >

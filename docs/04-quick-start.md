@@ -4,7 +4,7 @@
 
 ## 第 1 步：注册并登录
 
-[点击注册 FastAiToken](https://www.fastaitoken.com/register?aff=BF9KNKFHX725)
+[点击注册 FastAiToken](https://www.fastaitoken.com/register?aff=BF9KNKFHX725&utm=fastaitoken-beginner-guide)
 
 > [!NOTE]
 > 这个链接包含推广参数 `aff=BF9KNKFHX725`。通过它注册可能给本项目作者带来推广收益。
